@@ -1,1 +1,472 @@
-print("NeverLack Is still being made")
+--Made by Voice#0177
+
+-- Instances:
+
+local NeverLack = Instance.new("ScreenGui")
+local Credits = Instance.new("Frame")
+local CreditsTitle = Instance.new("TextLabel")
+local Owner = Instance.new("TextLabel")
+local Scripts = Instance.new("TextLabel")
+local Exit = Instance.new("TextButton")
+local NeverLack_2 = Instance.new("Frame")
+local Titles = Instance.new("Folder")
+local fe = Instance.new("TextLabel")
+local hubbbbb = Instance.new("TextLabel")
+local admoon = Instance.new("TextLabel")
+local Title = Instance.new("TextLabel")
+local scrttpt = Instance.new("TextLabel")
+local BlackholeLack = Instance.new("TextButton")
+local CtrlDelLack = Instance.new("TextButton")
+local ChatlogsLack = Instance.new("TextButton")
+local PunchUILack = Instance.new("TextButton")
+local UTPLack = Instance.new("TextButton")
+local InvisLack = Instance.new("TextButton")
+local InvisFlingLack = Instance.new("TextButton")
+local SpiderLack = Instance.new("TextButton")
+local slashkillLack = Instance.new("TextButton")
+local HeadlessLack = Instance.new("TextButton")
+local NullwareLack = Instance.new("TextButton")
+local OceanHubLack = Instance.new("TextButton")
+local XXHubLack = Instance.new("TextButton")
+local MiztHubLack = Instance.new("TextButton")
+local CmdXLack = Instance.new("TextButton")
+local IYLack = Instance.new("TextButton")
+local SVLack = Instance.new("TextButton")
+local RALack = Instance.new("TextButton")
+local CreditsLack = Instance.new("TextButton")
+
+--Properties:
+
+NeverLack.Name = "NeverLack"
+NeverLack.Parent = game.CoreGui
+NeverLack.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Credits.Name = "Credits"
+Credits.Parent = NeverLack
+Credits.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+Credits.Position = UDim2.new(0.360416681, 0, 0.155699715, 0)
+Credits.Size = UDim2.new(0, 405, 0, 222)
+Credits.Visible = false
+
+CreditsTitle.Name = "CreditsTitle"
+CreditsTitle.Parent = Credits
+CreditsTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CreditsTitle.BackgroundTransparency = 1.000
+CreditsTitle.BorderSizePixel = 0
+CreditsTitle.Position = UDim2.new(0.181409925, 0, 0, 0)
+CreditsTitle.Size = UDim2.new(0, 257, 0, 62)
+CreditsTitle.Font = Enum.Font.SourceSansBold
+CreditsTitle.Text = "NeverLack Hub"
+CreditsTitle.TextColor3 = Color3.fromRGB(148, 148, 148)
+CreditsTitle.TextSize = 34.000
+
+Owner.Name = "Owner"
+Owner.Parent = Credits
+Owner.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Owner.BackgroundTransparency = 1.000
+Owner.BorderSizePixel = 0
+Owner.Position = UDim2.new(0.0283234771, 0, 0.279279292, 0)
+Owner.Size = UDim2.new(0, 134, 0, 44)
+Owner.Font = Enum.Font.SourceSansBold
+Owner.Text = "Owner: Voice#0177"
+Owner.TextColor3 = Color3.fromRGB(148, 148, 148)
+Owner.TextSize = 20.000
+
+Scripts.Name = "Scripts"
+Scripts.Parent = Credits
+Scripts.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripts.BackgroundTransparency = 1.000
+Scripts.BorderSizePixel = 0
+Scripts.Position = UDim2.new(0.097459279, 0, 0.441441447, 0)
+Scripts.Size = UDim2.new(0, 250, 0, 44)
+Scripts.Font = Enum.Font.SourceSansBold
+Scripts.Text = "Scripts: cool man29"
+Scripts.TextColor3 = Color3.fromRGB(148, 148, 148)
+Scripts.TextSize = 20.000
+
+Exit.Name = "Exit"
+Exit.Parent = Credits
+Exit.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+Exit.BorderSizePixel = 0
+Exit.Position = UDim2.new(0.899928451, 0, 0.0275730491, 0)
+Exit.Size = UDim2.new(0, 32, 0, 25)
+Exit.Font = Enum.Font.SourceSansBold
+Exit.Text = "X"
+Exit.TextColor3 = Color3.fromRGB(148, 148, 148)
+Exit.TextSize = 30.000
+
+NeverLack_2.Name = "NeverLack"
+NeverLack_2.Parent = NeverLack
+NeverLack_2.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+NeverLack_2.BorderSizePixel = 0
+NeverLack_2.Position = UDim2.new(0.292708367, 0, 0.514384031, 0)
+NeverLack_2.Size = UDim2.new(0, 782, 0, 495)
+
+Titles.Name = "Titles"
+Titles.Parent = NeverLack_2
+
+fe.Name = "fe"
+fe.Parent = Titles
+fe.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+fe.BackgroundTransparency = 1.000
+fe.BorderSizePixel = 0
+fe.Position = UDim2.new(0.282966733, -1, 0.172000006, 0)
+fe.Size = UDim2.new(0, 200, 0, 50)
+fe.Font = Enum.Font.SourceSansBold
+fe.Text = "Fe Scripts"
+fe.TextColor3 = Color3.fromRGB(148, 148, 148)
+fe.TextSize = 40.000
+
+hubbbbb.Name = "hubbbbb"
+hubbbbb.Parent = Titles
+hubbbbb.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+hubbbbb.BackgroundTransparency = 1.000
+hubbbbb.BorderSizePixel = 0
+hubbbbb.Position = UDim2.new(0.537442386, -1, 0.172000006, 0)
+hubbbbb.Size = UDim2.new(0, 200, 0, 50)
+hubbbbb.Font = Enum.Font.SourceSansBold
+hubbbbb.Text = "Hubs"
+hubbbbb.TextColor3 = Color3.fromRGB(148, 148, 148)
+hubbbbb.TextSize = 40.000
+
+admoon.Name = "admoon"
+admoon.Parent = Titles
+admoon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+admoon.BackgroundTransparency = 1.000
+admoon.BorderSizePixel = 0
+admoon.Position = UDim2.new(0.761227667, -1, 0.172000036, 0)
+admoon.Size = UDim2.new(0, 187, 0, 50)
+admoon.Font = Enum.Font.SourceSansBold
+admoon.Text = "Admins"
+admoon.TextColor3 = Color3.fromRGB(148, 148, 148)
+admoon.TextSize = 40.000
+
+Title.Name = "Title"
+Title.Parent = Titles
+Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title.BackgroundTransparency = 1.000
+Title.BorderSizePixel = 0
+Title.Position = UDim2.new(0.334922075, 0, 0, 0)
+Title.Size = UDim2.new(0, 257, 0, 62)
+Title.Font = Enum.Font.SourceSansBold
+Title.Text = "NeverLack Hub"
+Title.TextColor3 = Color3.fromRGB(148, 148, 148)
+Title.TextSize = 50.000
+
+scrttpt.Name = "scrttpt"
+scrttpt.Parent = Titles
+scrttpt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+scrttpt.BackgroundTransparency = 1.000
+scrttpt.BorderSizePixel = 0
+scrttpt.Position = UDim2.new(0.0272122752, -1, 0.172000006, 0)
+scrttpt.Size = UDim2.new(0, 200, 0, 50)
+scrttpt.Font = Enum.Font.SourceSansBold
+scrttpt.Text = "Scripts"
+scrttpt.TextColor3 = Color3.fromRGB(148, 148, 148)
+scrttpt.TextSize = 40.000
+
+BlackholeLack.Name = "BlackholeLack"
+BlackholeLack.Parent = NeverLack_2
+BlackholeLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+BlackholeLack.BorderSizePixel = 0
+BlackholeLack.Position = UDim2.new(0.0498721227, 0, 0.301010102, 0)
+BlackholeLack.Size = UDim2.new(0, 162, 0, 44)
+BlackholeLack.Font = Enum.Font.SourceSansBold
+BlackholeLack.Text = "Blackhole"
+BlackholeLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+BlackholeLack.TextSize = 30.000
+BlackholeLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/iraF7Mw1", true))()
+end)
+
+CtrlDelLack.Name = "CtrlDelLack"
+CtrlDelLack.Parent = NeverLack_2
+CtrlDelLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+CtrlDelLack.BorderSizePixel = 0
+CtrlDelLack.Position = UDim2.new(0.0498721227, 0, 0.402020216, 0)
+CtrlDelLack.Size = UDim2.new(0, 162, 0, 44)
+CtrlDelLack.Font = Enum.Font.SourceSansBold
+CtrlDelLack.Text = "Ctrl Del"
+CtrlDelLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+CtrlDelLack.TextSize = 30.000
+CtrlDelLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/5fMKJEu7",true))()
+end)
+
+ChatlogsLack.Name = "ChatlogsLack"
+ChatlogsLack.Parent = NeverLack_2
+ChatlogsLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+ChatlogsLack.BorderSizePixel = 0
+ChatlogsLack.Position = UDim2.new(0.0498721227, 0, 0.50505054, 0)
+ChatlogsLack.Size = UDim2.new(0, 162, 0, 44)
+ChatlogsLack.Font = Enum.Font.SourceSansBold
+ChatlogsLack.Text = "Chatlogs"
+ChatlogsLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+ChatlogsLack.TextSize = 30.000
+ChatlogsLack.MouseButton1Down:connect(function()
+	loadstring(game:GetObjects("rbxassetid://1295331911")[1].Source)()
+end)
+
+PunchUILack.Name = "PunchUILack"
+PunchUILack.Parent = NeverLack_2
+PunchUILack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+PunchUILack.BorderSizePixel = 0
+PunchUILack.Position = UDim2.new(0.0498721227, 0, 0.606060624, 0)
+PunchUILack.Size = UDim2.new(0, 162, 0, 44)
+PunchUILack.Font = Enum.Font.SourceSansBold
+PunchUILack.Text = "PunchUI"
+PunchUILack.TextColor3 = Color3.fromRGB(148, 148, 148)
+PunchUILack.TextSize = 30.000
+PunchUILack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/YPZ0wNaw",true))()
+end)
+
+UTPLack.Name = "UTPLack"
+UTPLack.Parent = NeverLack_2
+UTPLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+UTPLack.BorderSizePixel = 0
+UTPLack.Position = UDim2.new(0.0498721227, 0, 0.707070708, 0)
+UTPLack.Size = UDim2.new(0, 162, 0, 44)
+UTPLack.Font = Enum.Font.SourceSansBold
+UTPLack.Text = "UTP"
+UTPLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+UTPLack.TextSize = 30.000
+UTPLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/FYxcrR3i",true))()
+end)
+
+InvisLack.Name = "InvisLack"
+InvisLack.Parent = NeverLack_2
+InvisLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+InvisLack.BorderSizePixel = 0
+InvisLack.Position = UDim2.new(0.0498721227, 0, 0.812121212, 0)
+InvisLack.Size = UDim2.new(0, 162, 0, 44)
+InvisLack.Font = Enum.Font.SourceSansBold
+InvisLack.Text = "Invis"
+InvisLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+InvisLack.TextSize = 30.000
+InvisLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/CJsr6Zyh",true))()
+end)
+
+InvisFlingLack.Name = "InvisFlingLack"
+InvisFlingLack.Parent = NeverLack_2
+InvisFlingLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+InvisFlingLack.BorderSizePixel = 0
+InvisFlingLack.Position = UDim2.new(0.0498721227, 0, 0.911111116, 0)
+InvisFlingLack.Size = UDim2.new(0, 162, 0, 37)
+InvisFlingLack.Font = Enum.Font.SourceSansBold
+InvisFlingLack.Text = "Invis Fling"
+InvisFlingLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+InvisFlingLack.TextSize = 30.000
+InvisFlingLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/kPSnyBpm", true))()
+end)
+
+SpiderLack.Name = "SpiderLack"
+SpiderLack.Parent = NeverLack_2
+SpiderLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+SpiderLack.BorderSizePixel = 0
+SpiderLack.Position = UDim2.new(0.300511509, 0, 0.301010132, 0)
+SpiderLack.Size = UDim2.new(0, 162, 0, 44)
+SpiderLack.Font = Enum.Font.SourceSansBold
+SpiderLack.Text = "Fe Spider"
+SpiderLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+SpiderLack.TextSize = 30.000
+SpiderLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/txsk1LJg",true))()
+end)
+
+slashkillLack.Name = "slashkillLack"
+slashkillLack.Parent = NeverLack_2
+slashkillLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+slashkillLack.BorderSizePixel = 0
+slashkillLack.Position = UDim2.new(0.300511509, 0, 0.402020216, 0)
+slashkillLack.Size = UDim2.new(0, 162, 0, 44)
+slashkillLack.Font = Enum.Font.SourceSansBold
+slashkillLack.Text = "/kill"
+slashkillLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+slashkillLack.TextSize = 30.000
+slashkillLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/GdftDnkV",true))()
+end)
+
+HeadlessLack.Name = "HeadlessLack"
+HeadlessLack.Parent = NeverLack_2
+HeadlessLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+HeadlessLack.BorderSizePixel = 0
+HeadlessLack.Position = UDim2.new(0.300511509, 0, 0.50505054, 0)
+HeadlessLack.Size = UDim2.new(0, 162, 0, 44)
+HeadlessLack.Font = Enum.Font.SourceSansBold
+HeadlessLack.Text = "Headless"
+HeadlessLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+HeadlessLack.TextSize = 30.000
+HeadlessLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/QUDSU8Fk",true))()
+end)
+
+NullwareLack.Name = "NullwareLack"
+NullwareLack.Parent = NeverLack_2
+NullwareLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+NullwareLack.BorderSizePixel = 0
+NullwareLack.Position = UDim2.new(0.557544708, 0, 0.301010132, 0)
+NullwareLack.Size = UDim2.new(0, 162, 0, 44)
+NullwareLack.Font = Enum.Font.SourceSansBold
+NullwareLack.Text = "Nullware"
+NullwareLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+NullwareLack.TextSize = 30.000
+NullwareLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://paste.ee/r/lGZMc/0"))()
+end)
+
+OceanHubLack.Name = "OceanHubLack"
+OceanHubLack.Parent = NeverLack_2
+OceanHubLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+OceanHubLack.BorderSizePixel = 0
+OceanHubLack.Position = UDim2.new(0.557544708, 0, 0.402020216, 0)
+OceanHubLack.Size = UDim2.new(0, 162, 0, 44)
+OceanHubLack.Font = Enum.Font.SourceSansBold
+OceanHubLack.Text = "Ocean Hub"
+OceanHubLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+OceanHubLack.TextSize = 30.000
+OceanHubLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/8cw7FMq4", true))()
+end)
+
+XXHubLack.Name = "XXHubLack"
+XXHubLack.Parent = NeverLack_2
+XXHubLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+XXHubLack.BorderSizePixel = 0
+XXHubLack.Position = UDim2.new(0.557544708, 0, 0.50505054, 0)
+XXHubLack.Size = UDim2.new(0, 162, 0, 44)
+XXHubLack.Font = Enum.Font.SourceSansBold
+XXHubLack.Text = "XXHub"
+XXHubLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+XXHubLack.TextSize = 30.000
+XXHubLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/YVE4njap",true))()
+end)
+
+MiztHubLack.Name = "MiztHubLack"
+MiztHubLack.Parent = NeverLack_2
+MiztHubLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+MiztHubLack.BorderSizePixel = 0
+MiztHubLack.Position = UDim2.new(0.557544708, 0, 0.606060624, 0)
+MiztHubLack.Size = UDim2.new(0, 162, 0, 44)
+MiztHubLack.Font = Enum.Font.SourceSansBold
+MiztHubLack.Text = "Mizt Hub"
+MiztHubLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+MiztHubLack.TextSize = 30.000
+MiztHubLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Pt1iUxcS",true))()
+end)
+
+CmdXLack.Name = "CmdXLack"
+CmdXLack.Parent = NeverLack_2
+CmdXLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+CmdXLack.BorderSizePixel = 0
+CmdXLack.Position = UDim2.new(0.773657262, 0, 0.301010132, 0)
+CmdXLack.Size = UDim2.new(0, 162, 0, 44)
+CmdXLack.Font = Enum.Font.SourceSansBold
+CmdXLack.Text = "Cmd-X"
+CmdXLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+CmdXLack.TextSize = 30.000
+CmdXLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+end)
+
+IYLack.Name = "IYLack"
+IYLack.Parent = NeverLack_2
+IYLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+IYLack.BorderSizePixel = 0
+IYLack.Position = UDim2.new(0.773657262, 0, 0.402020216, 0)
+IYLack.Size = UDim2.new(0, 162, 0, 44)
+IYLack.Font = Enum.Font.SourceSansBold
+IYLack.Text = "Infinite Yield"
+IYLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+IYLack.TextSize = 30.000
+IYLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+SVLack.Name = "SVLack"
+SVLack.Parent = NeverLack_2
+SVLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+SVLack.BorderSizePixel = 0
+SVLack.Position = UDim2.new(0.773657262, 0, 0.50505054, 0)
+SVLack.Size = UDim2.new(0, 162, 0, 44)
+SVLack.Font = Enum.Font.SourceSansBold
+SVLack.Text = "Shattervast"
+SVLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+SVLack.TextSize = 30.000
+SVLack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/q11Q1YY3",true))()
+end)
+
+RALack.Name = "RALack"
+RALack.Parent = NeverLack_2
+RALack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+RALack.BorderSizePixel = 0
+RALack.Position = UDim2.new(0.773657262, 0, 0.606060624, 0)
+RALack.Size = UDim2.new(0, 162, 0, 44)
+RALack.Font = Enum.Font.SourceSansBold
+RALack.Text = "Reviz Admin"
+RALack.TextColor3 = Color3.fromRGB(148, 148, 148)
+RALack.TextSize = 30.000
+RALack.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/ibFPdiF7",true))()
+end)
+
+CreditsLack.Name = "CreditsLack"
+CreditsLack.Parent = NeverLack_2
+CreditsLack.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+CreditsLack.BorderSizePixel = 0
+CreditsLack.Position = UDim2.new(0.773657262, 0, 0.0242424551, 0)
+CreditsLack.Size = UDim2.new(0, 162, 0, 44)
+CreditsLack.Font = Enum.Font.SourceSansBold
+CreditsLack.Text = "Credits"
+CreditsLack.TextColor3 = Color3.fromRGB(148, 148, 148)
+CreditsLack.TextSize = 30.000
+
+-- Scripts:
+
+local function BUILA_fake_script() -- Exit.LocalScript 
+	local script = Instance.new('LocalScript', Exit)
+
+	local Credits = script.Parent.Parent.Parent.Credits
+	local button = script.Parent.Parent.Exit
+	
+	button.MouseButton1Click:Connect(function()
+		Credits.Visible = false
+	end)
+end
+coroutine.wrap(BUILA_fake_script)()
+local function XZTLWGL_fake_script() -- CreditsLack.LocalScript 
+	local script = Instance.new('LocalScript', CreditsLack)
+
+	local Credits = script.Parent.Parent.Parent.Credits
+	local button = script.Parent.Parent.CreditsLack
+	
+	button.MouseButton1Click:Connect(function()
+		Credits.Visible = true
+	end)
+end
+coroutine.wrap(XZTLWGL_fake_script)()
+local function UYFERBY_fake_script() -- NeverLack_2.LocalScript 
+	local script = Instance.new('LocalScript', NeverLack_2)
+
+	local Toggled = false
+	game:GetService("UserInputService").InputBegan:connect(function(Key, g)
+		if g then return end;
+		if Key.KeyCode == Enum.KeyCode.V then
+			if Toggled == false then
+				Toggled = true
+				script.Parent.Parent.NeverLack.Visible = false
+			elseif Toggled == true then
+				Toggled = false;
+				script.Parent.Parent.NeverLack.Visible = true;
+			end;
+		end;
+	end)
+end
+coroutine.wrap(UYFERBY_fake_script)()
